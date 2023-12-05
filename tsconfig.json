@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "es2015", // Use ES modules for the browser
+    "rootDir": "./src",
+    "moduleResolution": "node", // Or "ESNext" for browser-compatible resolution
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noImplicitAny": true
+  }
+}
